@@ -1,0 +1,5 @@
+{
+  "name": "VibeCMS with Firebase & Gemini",
+  "description": "A modern Content Management System using React, Tailwind, and Firebase Firestore. Features AI-powered content generation, summarization, and auto-tagging using the Google Gemini API.",
+  "requestFramePermissions": []
+}
